@@ -16,4 +16,6 @@ If user Logins nesesarry details are asked after adding details, User will og ou
 
 then basic functions like Depoist, withdrawing and checking Balance can be used:
 ![image alt <](https://github.com/Chapstick53/ATM/assets/131119052/926458be-b0d0-425c-9ccc-7bf687035134)
+![image](https://github.com/Chapstick53/ATM/assets/131119052/fa37073f-3471-4f02-89b8-ae3af09a0d4d)
+
 
