@@ -3,7 +3,7 @@
 
 
 code is pretty self explanatory when you run it
-![image alt <](https://github.com/Chapstick53/ATM/assets/131119052/c29fa666-1300-42b5-9629-d7ba7ea0036b)
+![image alt <](https://github.com/Chapstick53/ATM/assets/131119052/c29fa666-1300-42b5-9629-d7ba7ea0036b#left)
 
 After pressing ENTER key two choices will pop up:
 ![image alt <](https://github.com/Chapstick53/ATM/assets/131119052/17405762-273a-4447-8551-0aeb4e89f23a)
