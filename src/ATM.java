@@ -14,7 +14,7 @@ public class ATM {
         System.out.println("*          *****        *        *  *  *       *");
         System.out.println("*         *     *       *        *     *       *");
         System.out.println("*                                              *");
-        System.out.println("*         Press ANY key to Enter in ATM        *");
+        System.out.println("*         Press ENTER key to Enter in ATM        *");
         System.out.println("************************************************");
 
         // Wait for the user to press any key
